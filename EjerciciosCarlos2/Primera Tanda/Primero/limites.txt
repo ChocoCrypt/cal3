@@ -1,0 +1,1 @@
+los limites son desde 0 hasta 1 y desde x^2 hasta sqrt(x)

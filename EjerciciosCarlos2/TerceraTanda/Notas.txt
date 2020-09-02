@@ -1,0 +1,3 @@
+Correcciones de cosas que dije(Rodrigo) en el video:
+1-cuando declaramos A(T) leí "Producto punto" , cuando debí haber leído "Producto Cruz"
+
